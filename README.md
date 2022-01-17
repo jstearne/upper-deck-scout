@@ -9,6 +9,4 @@ Start with nodemon: $nodemon server.js
 
 Try it with MongoDB/Mongo Atlas? Easy to update schemas as scope grows without significant re-work. Would like O-Auth but JWT is probably easier given docs. Keep it simple for now.
 
-express-1 branch (main is for fully functional changes)
-
 React starts at local 3000. Must be in the upper-deck-scount folder for react (the low-level folder)

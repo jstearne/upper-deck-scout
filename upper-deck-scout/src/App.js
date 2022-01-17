@@ -4,8 +4,10 @@ import React from 'react'
 function Welcome(props) {
 // what should the component return
   return (
-  // Make sure to return some UI
+  <div> 
     <h1>Welcome to Upper Deck Scout, {props.name}!</h1>
+    <p>You are currently in {props.location}</p>
+  </div>
   );
 }
 
