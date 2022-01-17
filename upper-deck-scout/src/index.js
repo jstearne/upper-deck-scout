@@ -6,7 +6,7 @@ import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
-    <Welcome />
+    <Welcome name={"Jared"} />
   </React.StrictMode>,
   document.getElementById('root')
 );

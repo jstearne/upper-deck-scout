@@ -11,4 +11,4 @@ Try it with MongoDB/Mongo Atlas? Easy to update schemas as scope grows without s
 
 express-1 branch (main is for fully functional changes)
 
-React starts at local 3000
+React starts at local 3000. Must be in the upper-deck-scount folder for react (the low-level folder)
