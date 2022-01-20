@@ -1,7 +1,9 @@
-import React from 'react'
+import React from 'react';
+import Welcome from './components/Welcome';
+import Player from './components/Player';
 
 // define our Welcome functional component
-function Welcome(props) {
+function App(props) {
 // what should the component return
   return (
   <div> 
@@ -11,4 +13,6 @@ function Welcome(props) {
   );
 }
 
-export default Welcome
+export default App;
+
+// this is my welcome component, before refactoring. It takes in props and returns a <div>
