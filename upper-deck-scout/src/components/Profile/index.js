@@ -42,5 +42,5 @@ class Profile extends React.Component {
         );
     }
 }
-
+// every time the button is clicked, state changes so the component RELOADS
 export default Profile;

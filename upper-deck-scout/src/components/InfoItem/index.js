@@ -2,7 +2,7 @@ import React from 'react';
 
 const InfoItem = (props) => (
     <div>
-        {props.info}
+        {props.label}: {props.value}
     </div>
 );
 
