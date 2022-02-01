@@ -7,7 +7,7 @@ import {
   // Switch,
   Route,
   // Link
-} from "react-router-dom"; // for routing in react
+} from "react-router-dom"; // for routing in react, will create "page" components
 import reportWebVitals from "./reportWebVitals";
 
 ReactDOM.render(
