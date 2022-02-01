@@ -1,6 +1,6 @@
 import React from 'react';
-import Welcome from './components/Welcome';
-import Player from './components/Player';
+// import Welcome from './components/Welcome';
+// import Player from './components/Player';
 
 // define our Welcome functional component
 function App(props) {

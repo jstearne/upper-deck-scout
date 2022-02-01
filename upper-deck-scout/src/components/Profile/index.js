@@ -23,6 +23,7 @@ class Profile extends React.Component {
                         { label: "Favorite Food", value: this.state.favoriteFood },
                     ]}
                 />
+                {/* button element, function=onClick, set state (name/age/food) as ___ */}
                 {this.state.showButton && (
                     <button
                         onClick={() => 

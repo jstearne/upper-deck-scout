@@ -9,8 +9,8 @@ Start with nodemon: $nodemon server.js
 
 Try it with MongoDB/Mongo Atlas? Easy to update schemas as scope grows without significant re-work. Would like O-Auth but JWT is probably easier given docs. Keep it simple for now.
 
-React starts at local 3000. Must be in the upper-deck-scount folder for react (the low-level folder)
+React starts at local 3000. Must be in the *nested* upper-deck-scout folder for react (the low-level folder)
 
-`npm start` to begin, but must be in the right upper-deck folder! Lower folder.
+`npm start` to begin, but must be in the right upper-deck folder! Lower folder. Will open in port 3000.
 
-Screen will update on save.
+Screen will update on save automatically.
